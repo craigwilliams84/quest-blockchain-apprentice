@@ -34,3 +34,4 @@
  - [Learn Chaincode (Hyperledger)](https://github.com/IBM-Blockchain/learn-chaincode)
  
 ## Certifications
+ - [B9Lab Academy Certified Ethereum Developer](https://academy.b9lab.com/)
